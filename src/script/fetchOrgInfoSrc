@@ -1,3 +1,0 @@
-#!/bin/bash
-
-curl http://orgmode.org/worg/code/org-info-js/org-info-src.js -o org-info-src.js
